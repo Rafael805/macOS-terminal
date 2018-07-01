@@ -1,2 +1,2 @@
-# macOS-terminal
+
 # macOS-terminal
